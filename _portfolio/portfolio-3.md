@@ -1,6 +1,6 @@
 ---
 title: "Ligand Receptor Interactions"
-excerpt: "Parallel analysis of scRNA-seq data from healthy mouse & human liver tissues<br/><img src='/images/nichenet.png'>"
+excerpt: "Parallel analysis of scRNA-seq data from healthy mouse & human liver tissues<br/><img src='/images/nichenet.png' width="70%">"
 collection: portfolio
 ---
 ##### Computational Cancer Biology Lab, Columbia University. Advisor: Prof. Elham Azizi

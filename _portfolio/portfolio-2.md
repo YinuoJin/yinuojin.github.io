@@ -1,6 +1,6 @@
 ---
 title: "Cell segmentation & Spatial profiling with multiplexed images"
-excerpt: "<br/><img src='/images/segmentation_figure.png' width="70%">"
+excerpt: "<img src='/images/segmentation_figure.png' width="70%">"
 collection: portfolio
 ---
 ##### Computational Cancer Biology Lab, Columbia University. Advisor: Prof. Elham Azizi

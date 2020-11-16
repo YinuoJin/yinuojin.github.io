@@ -1,10 +1,10 @@
 ---
 title: "Cell segmentation & Spatial profiling with multiplexed images"
-excerpt: "<img src='/images/segmentation_figure.png' width="70%">"
+excerpt: "<img src='/images/segmentation_figure.png' width='70%'>"
 collection: portfolio
 ---
 ##### Computational Cancer Biology Lab, Columbia University. Advisor: Prof. Elham Azizi
-<center><img src='/images/spatial_profiling.png' width="75%"></center><br><br>
+<center><img src='/images/spatial_profiling.png' width="85%"></center><br><br>
 With recent advances in multiplexed imaging and spatial transcriptomic and pro-
 teomic technologies, cell segmentation is becoming a crucial step in biomedical im-
 age analysis. In recent years, Fully Convolutional Networks (FCN) have achieved

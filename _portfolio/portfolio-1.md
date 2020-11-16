@@ -1,10 +1,10 @@
 ---
 title: "PICASSO: Copy Number Inference from single-cell transcriptomics"
-excerpt: "Phylogenetic Inference from Copy Number Variations (CNVs) in scRNA-seq data<br/><img src='/images/picasso.png' width="70%">"
+excerpt: "Phylogenetic Inference from Copy Number Variations (CNVs) in scRNA-seq data<br/><img src='/images/picasso.png' width='70%'>"
 collection: portfolio
 ---
 ##### Computational Biology Lab, Columbia University. Advisor: Prof. Itsik, Pe'er
-<center><img src='/images/picasso.png' width="75%"></center><br><br>
+<center><img src='/images/picasso.png' width="85%"></center><br><br>
 We propose PICASSO (<b>P</b>hylogenetic <b>I</b>nference from <b>C</b>opy Number <b>A</b>lterations in <b>S</b>crna<b>S</b>eq <b>O</b>bservations), a novel iterative approach to infer subclonal structure from tumor scRNA-seq data based on CNV predictions. In each iteration, our model consists of two sections:
 - Copy number profile prediction and refinement for each cell $i$, gene $g$ in the observation matrix with HMM
 - Subclonal detection & phylogenetic analysis from breakpoints of the inferred CNVs with EM-clustering

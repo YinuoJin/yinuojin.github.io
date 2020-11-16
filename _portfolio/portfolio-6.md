@@ -1,6 +1,6 @@
 ---
 title: "Oxford Nanopore Sequencing Analysis"
-excerpt: "Benchmarking multiple ONT basecallers, MSA from multiple basecalled reads to improve mapping accuracy & reduce soft-clipped regions<br/><img src='/images/nanofusion.png' width="70%">"
+excerpt: "Benchmarking multiple ONT basecallers, MSA from multiple basecalled reads to improve mapping accuracy & reduce soft-clipped regions<br/><img src='/images/nanofusion.png' width='70%'>"
 collection: portfolio
 ---
 ##### Budapest University of Technology and Economics (BME) (Study Abroad). Advisor: Péter Sárközy

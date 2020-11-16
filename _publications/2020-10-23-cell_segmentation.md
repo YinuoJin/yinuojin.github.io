@@ -1,8 +1,7 @@
 ---
-title: "<i>In Situ</i> Nuclei Image Segmentation"
-author: '<b>Yinuo Jin*</b>, Alexandre Toberoff*, Elham Azizi'
+title: "Transfer learning framework for cell segmentation with incorporation of geometric features"
 collection: publications
-permalink: /publication/cell_segmentation
+# permalink: /publication/cell_segmentation
 excerpt: 'With recent advances in multiplexed imaging and spatial transcriptomic and pro-
 teomic technologies, cell segmentation is becoming a crucial step in biomedical im-
 age analysis. In recent years, Fully Convolutional Networks (FCN) have achieved
@@ -14,8 +13,6 @@ framework incorporating shape-aware features in a deep learning model, with
 multi-level watershed and morphological post-processing steps. Our results show
 that incorporation of geometric features improves generalizability to segmenting
 cells in in situ tissue images, using solely in vitro images as training data'
-venue: 'LMRL Workshop@NeurIPS2020'
-papeurl: '/files/in_situ_cell_segmentation.pdf'
-#citation: '<b>Yinuo Jin*</b>, Alexandre Toberoff*, and Elham Azizi. Accepted to <i>NeurIPS 2020 Workshop on Learning Meaningful Representations of Life (LMRL)</i>'
 ---
-<b>Yinuo Jin*</b>, Alexandre Toberoff*, and Elham Azizi. Accepted to <i>NeurIPS 2020 Workshop on Learning Meaningful Representations of Life (LMRL)</i> [PDF](https:/yinuojin.github.io/files/in_situ_cell_segmentation.pdf)
+**Yinuo Jin\***, Alexandre Toberoff\*, and Elham Azizi<br>Accepted to NeurIPS 2020, Workshop on Learning Meaningful Representations of Life (LMRL)<br>
+[[PDF]](https:/yinuojin.github.io/files/in_situ_cell_segmentation.pdf)<br><img src='/images/segmentation_figure.png'>

@@ -1,5 +1,5 @@
 ---
-title: "Ancestral Sequence Inference"
+title: "Ancestral Sequence Reconstruction"
 excerpt: "ASR with incorporation of structural constraints<br/><img src='/images/asr.png' width='70%'>"
 collection: portfolio
 ---

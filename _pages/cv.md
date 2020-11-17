@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-{%[Curriculum Vitae [PDF]](http:/yinuojin.github.io/files/yinuo_jin_cv.pdf) %}

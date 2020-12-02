@@ -13,4 +13,4 @@ author_profile: true
 
 ## Leveraging USArray and Regional Networks to Characterize Natural and Mining Seismicity at the Intersection of the Grenville and Taconic Provinces
 
-Aubreya Adams, **Yinuo Jin**, Monica Dimas, and Isabel Dove<br>Seismological Research Letters: Eastern Section (submitted-in review)<br>[[Paper]](https://yinuojin.github.io/files/NYEarthquakes.pdf)<br><center><img src='/images/seismicity_figure.png' align="middle" width="600" height="800"></center>
+Aubreya Adams, **Yinuo Jin**, Monica Dimas, and Isabel Dove<br>Seismological Research Letters: Eastern Section (submitted-in review)<br><center><img src='/images/seismicity_figure.png' align="middle" width="600" height="800"></center>

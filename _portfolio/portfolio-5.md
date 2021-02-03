@@ -1,5 +1,5 @@
 ---
-title: "Evaluating gene-gene co-operations in Pancreatic scRNA-seq data"
+title: "Evaluating gene-gene co-expression in Pancreatic scRNA-seq data"
 excerpt: "Gene co-expression network inference via Deep Learning & SHAP interactions and WGCNA<br/><img src='/images/wgcna.png' width='70%'>"
 collection: portfolio
 ---
